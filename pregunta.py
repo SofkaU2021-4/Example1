@@ -8,7 +8,8 @@ class Pregunta():
         self.opt2=opt2
         self.opt3=opt3
         self.opt4=opt4
-        self.correcta=correcta  
+        self.correcta=correcta 
+        
    
     def __str__(self):
         ver= self.enunciado
