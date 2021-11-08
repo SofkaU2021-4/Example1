@@ -9,7 +9,6 @@ class Pregunta():
         self.opt3=opt3
         self.opt4=opt4
         self.correcta=correcta 
-        nuevo cambio
    
     def __str__(self):
         ver= self.enunciado
